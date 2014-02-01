@@ -196,18 +196,18 @@ position: relative;
 
 /* A */
 .char11 {
-  z-index: 0;
+  z-index: 11;
   top: -.04em;
-   margin-left: -.125em;
+margin-left: -.125em;
   text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
 }
 
 /* Y */
 .char12 {
-  z-index: 0;
+  z-index: 12;
   top: -.04em;
    margin-left: -.125em;
-  text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
+  text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9) white;
 }
 
 
