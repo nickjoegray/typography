@@ -81,7 +81,7 @@ body {
 
 section {
   /*overflow: hidden;*/
-  width: 60em;
+  width: 70em;
   margin: 0 auto;
 }
 
@@ -209,22 +209,6 @@ position: relative;
    margin-left: -.125em;
   text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* ==========================================================================
